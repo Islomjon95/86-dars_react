@@ -1,0 +1,13 @@
+.form_content label, input{
+    color: black;
+    display: inline-block;
+
+}
+
+.form_content input{
+    margin-left: 40px;
+}
+
+.form_content .date__input{
+    margin-left: 101px;
+}
